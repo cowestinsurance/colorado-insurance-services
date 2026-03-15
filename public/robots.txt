@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host
+Host: https://coloradoinsuranceservices.com
+
+# Sitemaps
+Sitemap: https://coloradoinsuranceservices.com/sitemap.xml
